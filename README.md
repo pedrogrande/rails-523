@@ -1,5 +1,8 @@
 # README
 
+Ruby 2.5.7
+Rails 5.2.3
+
 This is a basic Ruby on Rails app template with the following installed and setup:
 
 - Devise
@@ -9,6 +12,8 @@ This is a basic Ruby on Rails app template with the following installed and setu
 - Fontawesome
 - Rolify
 - FriendlyId
+- Invisible Captcha
+
 
 Includes a basic Bootstrap theme: https://startbootstrap.com/template-overviews/small-business/
 
